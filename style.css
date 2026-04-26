@@ -1,0 +1,37 @@
+#index-page {
+    background-image:url(img.back.jpeg);
+background-size:cover;
+background-position: center;
+background-repeat: no-repeat;
+min-height:100vh;
+}
+#about-page {
+    background-image:url(img6.webp);
+background-size:cover;
+background-position: center;
+background-repeat: no-repeat;
+min-height:100vh;
+}
+#details-page
+    {
+    background-image:url(img6.webp);
+background-size:cover;
+background-position: center;
+background-repeat: no-repeat;
+min-height:100vh;
+
+}
+h1 {font-style:inherit;
+    color: rgb(156, 138, 85);}
+h2,h3 {
+    font-style: oblique;
+    color:rgba(210, 201, 170, 0.845);
+}
+
+
+
+
+
+
+
+
